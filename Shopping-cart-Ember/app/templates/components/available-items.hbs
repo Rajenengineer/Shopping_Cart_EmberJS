@@ -1,0 +1,26 @@
+<h2 class="product__heading">Featured Products</h2>
+<div class="product__item-group">
+
+  <div class="row justify-content-between">
+    {{#if (eq publishedSortedProducts.length 0)}} No product available
+    {{else}}
+      {{#each publishedSortedProducts as |product|}}
+        <div class="col-12 col-sm-6 col-md-4">
+          <div class="product__item">
+            <img alt={{product.productName}} class="product__image" src={{product.productImage}}>
+            <div class="product__caption">
+              <span class="product__name">{{product.productName}}</span>
+              <span class="product__price"> ${{product.price}}</span>
+              <span class="product__add">
+                <button {{action addOrRemove product "add"}} type="button" class="btn btn-primary">
+                  <i class="glyphicon glyphicon-plus"></i> Add to cart
+                </button>
+              </span>
+            </div>
+          </div>
+        </div>
+      {{/each}}
+    {{/if}}
+  </div>
+</div>
+{{yield}}

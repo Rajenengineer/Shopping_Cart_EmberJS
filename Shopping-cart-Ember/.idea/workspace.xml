@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5e90e6b-4da9-410a-912f-b6f4a9115ce6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XqRkypASEZMP78oBRnIUXnHg6f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.ember-template-lint" value="true" />
+    <property name="node.js.path.for.package.ember-template-lint" value="project" />
+    <property name="node.js.selected.package.ember-template-lint" value="$PROJECT_DIR$/node_modules/ember-template-lint" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5e90e6b-4da9-410a-912f-b6f4a9115ce6" name="Default Changelist" comment="" />
+      <created>1581771785339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581771785339</updated>
+      <workItem from="1581771790534" duration="4111000" />
+      <workItem from="1581776699570" duration="2891000" />
+      <workItem from="1581825013969" duration="23043000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/ember-ajax/addon/-private/types.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="234" y="3" key="#TemplateLint" timestamp="1581776788796">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="234" y="3" key="#TemplateLint/0.0.1280.680@0.0.1280.680" timestamp="1581776788796" />
+    <state x="404" y="151" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581868260262">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="404" y="151" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1581868260262" />
+    <state x="422" y="99" key="FileChooserDialogImpl" timestamp="1581776786205">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1581776786205" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1581846643356">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581846643356" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1581846643356">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581846643356" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1581846643356">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581846643356" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1581846643356">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581846643356" />
+    <state x="153" y="0" key="SettingsEditor" timestamp="1581833331796">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="153" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581833331796" />
+    <state x="94" y="94" width="1093" height="493" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581846611807">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="94" y="94" width="1093" height="493" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1581846611807" />
+    <state x="351" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1581825231526">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="351" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1581825231526" />
+    <state x="344" y="96" width="592" height="488" key="find.popup" timestamp="1581869930284">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="344" y="96" width="592" height="488" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1581869930284" />
+    <state x="298" y="152" key="run.anything.popup" timestamp="1581865244658">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="298" y="152" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1581865244658" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1581872495718">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1581872495718" />
+  </component>
+</project>
